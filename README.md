@@ -178,4 +178,4 @@ Aplikasi ini masih bisa dikembangkan lebih lanjut, seperti menambahkan filter, d
 
 ## Author
 
-[Your Name]
+Wilson
